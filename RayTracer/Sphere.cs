@@ -50,7 +50,7 @@ namespace RayTracer
 
         public Vector3 NormAt(Vector3 pos)
         {
-            throw new NotImplementedException();
+           return Vector3.Subtract(pos, Center);
         }
     }
 }
