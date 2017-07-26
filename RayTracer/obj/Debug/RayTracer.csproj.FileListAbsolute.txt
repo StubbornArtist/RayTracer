@@ -1,0 +1,5 @@
+c:\users\ashle_000\documents\visual studio 2015\Projects\RayTracer\RayTracer\bin\Debug\RayTracer.dll
+c:\users\ashle_000\documents\visual studio 2015\Projects\RayTracer\RayTracer\bin\Debug\RayTracer.pdb
+c:\users\ashle_000\documents\visual studio 2015\Projects\RayTracer\RayTracer\obj\Debug\RayTracer.csprojResolveAssemblyReference.cache
+c:\users\ashle_000\documents\visual studio 2015\Projects\RayTracer\RayTracer\obj\Debug\RayTracer.dll
+c:\users\ashle_000\documents\visual studio 2015\Projects\RayTracer\RayTracer\obj\Debug\RayTracer.pdb
