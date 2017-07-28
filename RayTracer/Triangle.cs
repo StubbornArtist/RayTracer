@@ -24,6 +24,7 @@ namespace RayTracer
 
         public Vector3 PointThree { get; set; }
 
+		[Newtonsoft.Json.JsonConstructor]
         public Triangle(Vector3 p1, Vector3 p2, Vector3 p3)
         {
             PointOne = p1;

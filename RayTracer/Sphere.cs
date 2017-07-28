@@ -19,6 +19,14 @@ namespace RayTracer
         public Double Radius { get; set; }
 
         public Vector3 Center { get; set; }
+		
+		Newtonsoft.Json.JsonConstructor]
+        public Sphere(Double r, Vector3 c)
+        {
+            Radius = r;
+            Center = c;
+
+        }
 
         public List<Vector3> Intersects(Ray r)
         {

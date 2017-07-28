@@ -14,7 +14,7 @@ namespace RayTracer
 
         public Double Z { get; set; }
 
-
+		[Newtonsoft.Json.JsonConstructor]
         public Vector3(Double x, Double y, Double z)
         {
             X = x;

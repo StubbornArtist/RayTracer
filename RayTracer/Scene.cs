@@ -8,8 +8,8 @@ namespace RayTracer
 {
     public class Scene
     {
-        private List<IShape> shapes;
-
+        public List<IShape> Shapes { get; set; }
+		
         public Vector3 Camera { get; set; }
 
         public Double AngleOfView { get; set; }
@@ -22,7 +22,7 @@ namespace RayTracer
 
         public Scene(Vector3 camera, Vector3 light, Double aof, Vector3 aC, Vector3 aI)
         {
-            shapes = new List<IShape>();
+            Shapes = new List<IShape>();
             Camera = camera;
             LightPos = light;
             AngleOfView = aof;

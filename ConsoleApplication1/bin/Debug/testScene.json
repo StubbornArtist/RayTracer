@@ -1,0 +1,86 @@
+[
+	{
+		"type": "sphere",
+		"def" : {
+			"Diffuse" : {
+				"X" : "1",
+				"Y" : "2",
+				"Z" : "50"
+			},
+			"Phong" : "4.5",
+			"Reflective" : "true",
+			"Specular" : {
+				"X" : "5",
+				"Y" : "4",
+				"Z" : "10"
+			},
+			"Radius" : "1.2",
+			"Center" : {
+				"X" : "3",
+				"Y" : "3",
+				"Z" : "3"
+			}
+		
+		}
+	},
+	{
+		"type" : "triangle",
+		"def" : {
+			"Diffuse" : {
+				"X" : "1",
+				"Y" : "2",
+				"Z" : "50"
+			},
+			"Phong" : "4.5",
+			"Reflective" : "true",
+			"Specular" : {
+				"X" : "5",
+				"Y" : "4",
+				"Z" : "10"
+			},
+			"PointOne" : {
+				"X" : "1",
+				"Y" : "4",
+				"Z" : "-1"
+			},
+			"PointTwo" : {
+				"X" : "2",
+				"Y" : "1.1",
+				"Z" : "1.25"
+			},
+			"PointThree" : {
+				"X" : "101",
+				"Y" : "-2.45",
+				"Z" : "3"
+			}
+		}
+	},	
+	{
+		"type" : "plane",
+		"def" : {
+			"Diffuse" : {
+				"X" : "1",
+				"Y" : "2",
+				"Z" : "50"
+			},
+			"Phong" : "4.5",
+			"Reflective" : "true",
+			"Specular" : {
+				"X" : "5",
+				"Y" : "4",
+				"Z" : "10"
+			},
+			"Point" : {
+				"X" : "3",
+				"Y" : "4",
+				"Z" : "5"
+			},
+			"Normal" : {
+				"X" : "1",
+				"Y" : "-1",
+				"Z" : "1"
+			}
+		}
+	}
+
+]

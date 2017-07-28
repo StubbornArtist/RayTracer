@@ -18,6 +18,7 @@ namespace RayTracer
 
         public Vector3 Normal { get; set; }
 
+		[Newtonsoft.Json.JsonConstructor]
         public Plane(Vector3 p, Vector3 n)
         {
             Point = p;

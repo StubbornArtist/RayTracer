@@ -1,0 +1,9 @@
+C:\Users\ashle_000\Dropbox\RayTracer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ashle_000\Dropbox\RayTracer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ashle_000\Dropbox\RayTracer\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ashle_000\Dropbox\RayTracer\ConsoleApplication1\bin\Debug\RayTracer.dll
+C:\Users\ashle_000\Dropbox\RayTracer\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ashle_000\Dropbox\RayTracer\ConsoleApplication1\bin\Debug\RayTracer.pdb
+C:\Users\ashle_000\Dropbox\RayTracer\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ashle_000\Dropbox\RayTracer\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ashle_000\Dropbox\RayTracer\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
